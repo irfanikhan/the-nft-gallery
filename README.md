@@ -86,7 +86,7 @@ $ cd NFT-Marketplace
 $ yarn
 
 # run ganache
-$ ganache-cli
+$ ganache
 
 # deploy de contracts on the blockchain
 $ truffle migrate
