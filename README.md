@@ -1,18 +1,3 @@
-<h1 align=center>
-<img src="https://res.cloudinary.com/nataliebravo/image/upload/v1630406853/NFT/banner_npzzzz.png" />
-</h1>
-
-<div align="center">
-  
-![License](https://img.shields.io/badge/license-MIT-737CA1?style=flat-square) 
-![Node_Badge](https://img.shields.io/badge/node-14.16.1-green?style=flat-square)
-![Npm_Badge](https://img.shields.io/badge/npm-6.14.12-yellow?style=flat-square)
-![React Badge](https://img.shields.io/badge/React-17.0.2-45b8d8?style=flat-square)
-![Solidity_Badge](https://img.shields.io/badge/Solidity-%5E8.0.0-363636?style=flat-square)
-![Truffle](https://img.shields.io/badge/Truffle-5.3.14-F0E8E0?style=flat-square)
-[![Made by NatalieBravo](https://img.shields.io/badge/made%20by-NatalieBravo-blueviolet?style=flat-square)](https://www.linkedin.com/in/nataliebravo/)
-</div>
-
 # Summary
 
 - [About](#about)
