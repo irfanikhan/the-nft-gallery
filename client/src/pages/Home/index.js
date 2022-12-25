@@ -144,7 +144,7 @@ const Home = () => {
   return (
     <div className={classes.homepage}>
       <section className={classes.banner}>
-        <Grid container spacing={0} xs={12} className={classes.gridBanner}>
+        <Grid container spacing={0} className={classes.gridBanner}>
           <Grid item xs={3}>
             <Grid container spacing={0}>
               <Grid item xs={8}>

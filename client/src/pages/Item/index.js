@@ -90,7 +90,7 @@ const Item = () => {
             <Grid container 
               spacing={0} 
               alignItems="center"
-              justify="center"
+              justifyContent="center"
             >
               <Grid item md={7} sm={7} xs={12}>
                 <figure> 
