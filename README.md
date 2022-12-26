@@ -59,7 +59,7 @@ Now go to project folder and run:
 
 
 ```bash
-$ cd NFT-Marketplace
+$ cd the-nft-gallery
 
 # install the dependencies
 $ yarn
@@ -89,4 +89,3 @@ There are some things to be done in the project:
   - State persistence;
   - Revise front-end call to the buy and sell functions on the blockchain;
   - Error handling;
-  - NFT cards to reflect the true information of price coming from the blockchain.
