@@ -1,4 +1,12 @@
-# Summary
+<a id='about'/>
+
+## :information_source: About
+
+Galerie is a NFT Marketplace that enables the creation, sale, and purchase of digital art as NFTs.
+
+<a id="summary" />
+
+## Summary
 
 - [About](#about)
 - [Preview](#preview)
@@ -7,12 +15,6 @@
 - [How to Use](#how-to-use)
 - [TODO](#todo)
 - [License](#license)
-
-<a id='about'/>
-
-## :information_source: About
-
-Galerie is a NFT Marketplace that enables the creation, sale, and purchase of digital art as NFTs.
 
 
 <a id='technologies'/>
